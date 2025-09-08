@@ -20,3 +20,4 @@ This is the frontend of a multi-user e-commerce platform built with React and Re
 
 🎨 Responsive UI ready for backend API integration
 
+Project Frontend Structure:
